@@ -1,6 +1,6 @@
 # Hi 👋! I'm John Dexter Lanot
 
-<img width="2%" src="https://batstate-u.edu.ph/wp-content/uploads/2020/09/batstate-logo2.png"/> Second Year College student at **Batangas State University - Alangilan**.
+<img width="2%" src="https://batstate-u.edu.ph/wp-content/uploads/2020/09/batstate-logo2.png"/> Student at **Batangas State University - Alangilan**.
 
 👨🏽‍💻 Bachelor of Science in Information Technology
 
